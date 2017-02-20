@@ -1,0 +1,17 @@
+@charset "utf-8";
+/*
+Author: <a href="wwww.elderkindata.com">Kin Analytics</a>
+Author URI: http://wwww.elderkindata.com/
+Licence: Copyright. Duplicate is prohibited by Federal Law.
+Licence URI: http://www.elderkindata.com/terms and conditions
+File: Icons CSS
+*/
+
+#icons_table{
+	text-align: center;
+	
+ }
+ .popup:hover {
+	width:200px;
+	height:80px;
+	}
